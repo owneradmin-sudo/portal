@@ -14,7 +14,7 @@ search = { path = "../search" }
 clap = { version = "4.1.7", features = ["derive"] }
 ic-agent = "0.23.0"
 ic-utils = "0.23.0"
-tokio = { version = "1.25.0", features = ["full"] }
+tokio = { version = "1.26.0", features = ["full"] }
 candid = "0.8.4"
 
 [dev-dependencies]
